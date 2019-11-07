@@ -11,3 +11,6 @@
 
 ![Image of i1_shimayou](/images/i1_shimayou.png)
 [**Download i1_shimayou.xlsx**](/excel/i1_shimayou.xlsx)
+
+![Image of i1_shimayou](/images/i1_shimayou.png)
+[**Download i1_shimayou.xlsx**](/excel/i1_shimayou.xlsx)
