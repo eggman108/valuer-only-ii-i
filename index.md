@@ -45,11 +45,13 @@
 ## ■ COMING SOON !!!
 
 ![Image of i13_ikeyan](/images/i13_ikeyan.png)
-[**i13_ikeyan**]
+**i13_ikeyan**
 
 ![Image of i14_ss-esuesu](/images/i14_ss-esuesu.png)
+**i14_ss-esuesu**
 
 ![Image of i15_naoki923](/images/i15_naoki923.png)
+**i15_naoki923**
 
 ![Image of i16_sumsum](/images/i16_sumsum.png)
-
+**i16_sumsum**
