@@ -23,3 +23,21 @@
 
 ![Image of i6_tazume](/images/ic6_tazume.png)
 [**Download i6_tazume.xlsx**](/excel/i6_tazume.xlsx)
+
+![Image of i7_gaserikin](/images/ic7_gaserikin.png)
+[**Download i7_gaserikin.xlsx**](/excel/i7_gaserikin.xlsx)
+
+![Image of i8_takahashijun](/images/ic8_takahashijun.png)
+[**Download i8_takahashijun.xlsx**](/excel/i8_takahashijun.xlsx)
+
+![Image of i9_kanakana1971](/images/ic9_kanakana1971.png)
+[**Download i9_kanakana1971.xlsx**](/excel/i9_kanakana1971.xlsx)
+
+![Image of i10_yuuki06](/images/ic10_yuuki06.png)
+[**Download i10_yuuki06.xlsx**](/excel/i10_yuuki06.xlsx)
+
+![Image of i11_masarusuzuki](/images/ic11_masarusuzuki.png)
+[**Download i11_masarusuzuki.xlsx**](/excel/i11_masarusuzuki.xlsx)
+
+![Image of i12_nashville](/images/ic12_nashville.png)
+[**Download i12_nashville.xlsx**](/excel/i12_nashville.xlsx)
