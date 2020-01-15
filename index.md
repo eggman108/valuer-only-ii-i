@@ -1,10 +1,10 @@
 # Welcome to Valuer only site II
-## ダウンロード方法
+## ※ダウンロード方法
 赤丸で囲ったテキストをクリックするとダウンロードされます。
 
 ![Image of hd4](/images/hd4.png/)
 
-## あなたのアイコンをExcel絵にしました
+## ■あなたのアイコンをExcel絵にしました
 
 ![Image of i1_shimayou](/images/ic1_shimayou.png)
 [**Download i1_shimayou.xlsx**](/excel/i1_shimayou.xlsx)
@@ -42,7 +42,7 @@
 ![Image of i12_nashville](/images/ic12_nashville.png)
 [**Download i12_nashville.xlsx**](/excel/i12_nashville.xlsx)
 
-## COMING SOON
+## ■ COMING SOON !!!
 
 ![Image of i13_ikeyan](/images/i13_ikeyan.png)
 [**i13_ikeyan**]
