@@ -1,6 +1,6 @@
-# Valuer only site II
-## ※ダウンロード方法
-赤丸で囲ったテキストをクリックするとダウンロードされます。
+# 2VA VALUER ONLY SITE
+## ■ ダウンロード方法
+※赤丸で囲ったテキストをクリックするとダウンロードされます。
 
 ![Image of hd4](/images/hd4.png/)
 
