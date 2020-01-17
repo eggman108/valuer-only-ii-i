@@ -42,10 +42,10 @@
 ![Image of i12_nashville](/images/ic12_nashville.png)
 [**Download i12_nashville.xlsx**](/excel/i12_nashville.xlsx)
 
-## ■ COMING SOON !!!
+![Image of i13_ikeyan](/images/ic13_ikeyan.png)
+[**Download i13_ikeyan.xlsx**](/excel/i13_ikeyan.xlsx)
 
-![Image of i13_ikeyan](/images/i13_ikeyan.png)
-**i13_ikeyan**
+## ■ COMING SOON !!!
 
 ![Image of i14_ss-esuesu](/images/i14_ss-esuesu.png)
 **i14_ss-esuesu**
