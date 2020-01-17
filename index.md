@@ -45,13 +45,11 @@
 ![Image of i13_ikeyan](/images/ic13_ikeyan.png)
 [**Download i13_ikeyan.xlsx**](/excel/i13_ikeyan.xlsx)
 
-## ■ COMING SOON !!!
+![Image of i14_ss-esuesu](/images/ic14_ss-esuesu.png)
+[**Download i14_ss-esuesu.xlsx**](/excel/i14_ss-esuesu.xlsx)
 
-![Image of i14_ss-esuesu](/images/i14_ss-esuesu.png)
-**i14_ss-esuesu**
+![Image of i15_naoki923](/images/ic15_naoki923.png)
+[**Download i15_naoki923.xlsx**](/excel/i15_naoki923.xlsx)
 
-![Image of i15_naoki923](/images/i15_naoki923.png)
-**i15_naoki923**
-
-![Image of i16_sumsum](/images/i16_sumsum.png)
-**i16_sumsum**
+![Image of i16_sumsum](/images/ic16_sumsum.png)
+[**Download i16_sumsum.xlsx**](/excel/i16_sumsum.xlsx)
